@@ -18,3 +18,6 @@ Each entry includes the date and a short description of the idea.
 - 2026-04-15: Home Assistant MCP for smart home control
 - 2026-04-15: Toyota pickup maintenance tracker app
 - 2026-04-15: Reusable threat summary template for Duke Energy security team
+- 2026-04-16: Obsidian MCP server for personal knowledge vault and Sunday School lesson archive
+- 2026-04-16: Lake House Seasonal Readiness Tracker web app with due dates and email reminders
+- 2026-04-16: Socratic Sunday School Prep — roleplay as a biblical figure to find new lesson angles
