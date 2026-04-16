@@ -58,3 +58,17 @@ Each entry includes the date, section, and topic/headline summary.
 - 2026-04-15 [AI/Tech]: Claude Opus 4.7 could drop this week
 - 2026-04-15 [AI/Tech]: Gemini hits 750M users
 - 2026-04-15 [AI/Tech]: GPT-5.4 setting benchmark records
+- 2026-04-16 [News]: Live Nation/Ticketmaster antitrust monopoly verdict
+- 2026-04-16 [News]: Senate rejects Iran war powers resolution 47-52
+- 2026-04-16 [News]: Tax Day protests across U.S. cities
+- 2026-04-16 [News]: Russia intensifies drone/missile strikes on Ukraine
+- 2026-04-16 [News]: Pentagon drafting Cuba military contingency plans
+- 2026-04-16 [Disney]: Rock n Roller Coaster Muppets full retheme details revealed
+- 2026-04-16 [Disney]: runDisney Springtime Surprise Weekend April 16-20
+- 2026-04-16 [Disney]: 4-Day 4-Park Magic Ticket $99/day May 26-Oct 3 2026
+- 2026-04-16 [Disney]: DCL Restricted Rate staterooms up to 35% off select 2026 sailings
+- 2026-04-16 [AI/Tech]: Claude Mythos Preview announced - security-focused model
+- 2026-04-16 [AI/Tech]: OpenAI shifting focus to business users amid Anthropic pressure
+- 2026-04-16 [AI/Tech]: Native Gemini app for Mac launches built in Swift
+- 2026-04-16 [AI/Tech]: Gemini integrates Google Photos for personalized image generation
+- 2026-04-16 [AI/Tech]: Google Maps uses Gemini to detect spam reviews
