@@ -86,3 +86,14 @@ Each entry includes the date, section, and topic/headline summary.
 - 2026-04-16 [AI/Tech]: OpenAI announces "Spud" codename for smartest model yet
 - 2026-04-16 [AI/Tech]: Jensen Huang admits Nvidia missed early OpenAI and Anthropic investment
 - 2026-04-16 [AI/Tech]: CNBC - public opinion souring on AI and data centers as IPOs loom
+- 2026-04-17 [News]: Israel-Lebanon ceasefire takes effect - Beirut celebrates with fireworks
+- 2026-04-17 [News]: Trump claims Iran agreed to hand over "nuclear dust" from bombed Fordow/Natanz facilities
+- 2026-04-17 [News]: Democrat Analilia Mejia wins NJ-11 special election
+- 2026-04-17 [News]: Singer d4vd arrested on suspicion of murder of 14-year-old
+- 2026-04-17 [Disney]: Big Thunder Mountain Railroad reopening this spring after full refurbishment
+- 2026-04-17 [Disney]: Disney Destiny first-ever public behind-the-scenes engineering tour
+- 2026-04-17 [Disney]: New flash deals on DCL near-term sailings
+- 2026-04-17 [AI/Tech]: Stanford 2026 AI Index - Anthropic ranked #1 AI lab globally
+- 2026-04-17 [AI/Tech]: Hackers using AI to breach networks - Iranian state groups targeting critical infrastructure
+- 2026-04-17 [AI/Tech]: Five hyperscale companies control two-thirds of global AI compute
+- 2026-04-17 [AI/Tech]: PwC 2026 AI Performance Study - top 20% capturing 75% of AI economic gains
