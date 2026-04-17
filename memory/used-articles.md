@@ -72,3 +72,17 @@ Each entry includes the date, section, and topic/headline summary.
 - 2026-04-16 [AI/Tech]: Native Gemini app for Mac launches built in Swift
 - 2026-04-16 [AI/Tech]: Gemini integrates Google Photos for personalized image generation
 - 2026-04-16 [AI/Tech]: Google Maps uses Gemini to detect spam reviews
+- 2026-04-16 [News]: Trump announces 10-day Israel-Hezbollah ceasefire in Lebanon
+- 2026-04-16 [News]: Turkey middle-school shooting kills 9 (second in 48 hours)
+- 2026-04-16 [News]: Pakistan mediating next round of US-Iran nuclear talks
+- 2026-04-16 [News]: China Q1 GDP beats expectations at 5.0%
+- 2026-04-16 [News]: Airlines cut routes as Iran war drives jet fuel prices up
+- 2026-04-16 [Disney]: New 2027 Dining Plan deal - 20% off for kids ages 3-9
+- 2026-04-16 [Disney]: 25% off DCL Alaska and Europe 2026 sailings plus 30% resident rates
+- 2026-04-16 [Disney]: Magic of Disney Animation returns at Hollywood Studios May 26
+- 2026-04-16 [Disney]: Rock 'n' Roller Coaster track list revealed - Blur's "Song 2" cover by Electric Mayhem
+- 2026-04-16 [AI/Tech]: Claude Opus 4.7 generally available - Anthropic's most powerful GA model
+- 2026-04-16 [AI/Tech]: OpenAI Codex adds in-app browser and memory feature targeting Claude Code
+- 2026-04-16 [AI/Tech]: OpenAI announces "Spud" codename for smartest model yet
+- 2026-04-16 [AI/Tech]: Jensen Huang admits Nvidia missed early OpenAI and Anthropic investment
+- 2026-04-16 [AI/Tech]: CNBC - public opinion souring on AI and data centers as IPOs loom
