@@ -21,3 +21,6 @@ Each entry includes the date and a short description of the idea.
 - 2026-04-16: Obsidian MCP server for personal knowledge vault and Sunday School lesson archive
 - 2026-04-16: Lake House Seasonal Readiness Tracker web app with due dates and email reminders
 - 2026-04-16: Socratic Sunday School Prep — roleplay as a biblical figure to find new lesson angles
+- 2026-04-16: Apple Shortcuts / Reminders MCP server to bridge Claude with native iOS automation and HomeKit
+- 2026-04-16: Bible Cross-Reference Explorer web app with AI-generated thematic connections for Sunday School prep
+- 2026-04-16: Dam safety engineering rabbit hole with Claude — sensors, monitoring, cyber-risk to SCADA, relevant to Duke Energy hydro fleet
