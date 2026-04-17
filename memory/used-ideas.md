@@ -24,3 +24,6 @@ Each entry includes the date and a short description of the idea.
 - 2026-04-16: Apple Shortcuts / Reminders MCP server to bridge Claude with native iOS automation and HomeKit
 - 2026-04-16: Bible Cross-Reference Explorer web app with AI-generated thematic connections for Sunday School prep
 - 2026-04-16: Dam safety engineering rabbit hole with Claude — sensors, monitoring, cyber-risk to SCADA, relevant to Duke Energy hydro fleet
+- 2026-04-17: Readwise MCP server to query saved article highlights and book notes by topic inside Claude
+- 2026-04-17: Ask Claude to write a formal letter of recommendation for the 1995 Toyota pickup as "Chief Reliable Workhorse"
+- 2026-04-17: Full history of electricity rabbit hole with Claude — Volta to Faraday to War of Currents to the modern grid
