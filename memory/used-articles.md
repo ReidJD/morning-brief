@@ -97,3 +97,17 @@ Each entry includes the date, section, and topic/headline summary.
 - 2026-04-17 [AI/Tech]: Hackers using AI to breach networks - Iranian state groups targeting critical infrastructure
 - 2026-04-17 [AI/Tech]: Five hyperscale companies control two-thirds of global AI compute
 - 2026-04-17 [AI/Tech]: PwC 2026 AI Performance Study - top 20% capturing 75% of AI economic gains
+- 2026-04-18 [News]: Ukraine hits Russian oil infrastructure overnight in Crimea and Samara Oblast
+- 2026-04-18 [News]: Oil prices plunge after Iran agrees to reopen Strait of Hormuz
+- 2026-04-18 [News]: Walmart 2026 expansion - ~20 new stores, 650 remodels
+- 2026-04-18 [News]: US renews Russian oil sanctions waivers for one month
+- 2026-04-18 [News]: Jet fuel prices force airlines to trim schedules
+- 2026-04-18 [Disney]: Disney World adds 8 more April Good to Go days for Passholders
+- 2026-04-18 [Disney]: Afternoon/Evening 2pm ticket deal returns for summer (May 26-Oct 3)
+- 2026-04-18 [Disney]: Florida resident 2026 ticket offers open
+- 2026-04-18 [Disney]: Water park free check-in day returns (May 26-Sept 8)
+- 2026-04-18 [AI/Tech]: Anthropic launches Claude Design research preview powered by Opus 4.7
+- 2026-04-18 [AI/Tech]: Anthropic ARR hits $30B; October IPO targeting ~$60B, $380B private valuation
+- 2026-04-18 [AI/Tech]: Fortune reports Claude performance decline and user backlash amid compute crunch
+- 2026-04-18 [AI/Tech]: Google in talks with Pentagon to deploy Gemini in classified environments
+- 2026-04-18 [AI/Tech]: Gemini in Chrome rolling out on Windows and Mac to Pro/Ultra subs
