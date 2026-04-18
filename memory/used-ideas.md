@@ -27,3 +27,6 @@ Each entry includes the date and a short description of the idea.
 - 2026-04-17: Readwise MCP server to query saved article highlights and book notes by topic inside Claude
 - 2026-04-17: Ask Claude to write a formal letter of recommendation for the 1995 Toyota pickup as "Chief Reliable Workhorse"
 - 2026-04-17: Full history of electricity rabbit hole with Claude — Volta to Faraday to War of Currents to the modern grid
+- 2026-04-18: Pi-hole / DNS control MCP server to query stats and manage blocklists from Claude
+- 2026-04-18: Sermon-to-Sunday-School converter script (audio/transcript → kid-friendly lesson with questions, activity, memory verse)
+- 2026-04-18: History of internal combustion engines rabbit hole with Claude — Otto cycle to small-block V8 to modern direct injection
