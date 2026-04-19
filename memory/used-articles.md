@@ -111,3 +111,17 @@ Each entry includes the date, section, and topic/headline summary.
 - 2026-04-18 [AI/Tech]: Fortune reports Claude performance decline and user backlash amid compute crunch
 - 2026-04-18 [AI/Tech]: Google in talks with Pentagon to deploy Gemini in classified environments
 - 2026-04-18 [AI/Tech]: Gemini in Chrome rolling out on Windows and Mac to Pro/Ultra subs
+- 2026-04-19 [News]: Kyiv Holosiivskyi mass shooting - 6 killed, 14 injured, gunman killed by police
+- 2026-04-19 [News]: North Korean missile launches from Sinpo area on Sunday morning
+- 2026-04-19 [News]: Jordanian military has intercepted 261 Iranian missiles/drones over five weeks
+- 2026-04-19 [News]: RMS Titanic passenger life jacket sells at auction for £670,000 (~$900K)
+- 2026-04-19 [News]: Big Tech ~$650B combined AI/data center spend in 2026 (Alphabet, Amazon, Meta, Microsoft)
+- 2026-04-19 [Disney]: Sorcerer Hat returns to Hollywood Studios in reimagined Walt Disney Studios Courtyard
+- 2026-04-19 [Disney]: Big Thunder Mountain Railroad reopens May 3 with height requirement lowered 40"→38"
+- 2026-04-19 [Disney]: Rock 'n' Roller Coaster full 5-song list and nine celebrity queue appearances revealed
+- 2026-04-19 [Disney]: Disney Magic begins Alaska season April 19 joining Wonder after Panama Canal repositioning
+- 2026-04-19 [AI/Tech]: Perplexity Personal Computer launches for Mac - always-on AI agent at $200/mo
+- 2026-04-19 [AI/Tech]: xAI closes upsized $20B Series E, past original $15B target
+- 2026-04-19 [AI/Tech]: Meta to cut ~10% of staff in May as part of AI-first pivot
+- 2026-04-19 [AI/Tech]: Wikimedia Foundation signs content licensing deals with Microsoft and Meta
+- 2026-04-19 [AI/Tech]: Google Assistant enters end-of-life phase, consolidating around Gemini
