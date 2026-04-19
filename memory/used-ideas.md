@@ -30,3 +30,6 @@ Each entry includes the date and a short description of the idea.
 - 2026-04-18: Pi-hole / DNS control MCP server to query stats and manage blocklists from Claude
 - 2026-04-18: Sermon-to-Sunday-School converter script (audio/transcript → kid-friendly lesson with questions, activity, memory verse)
 - 2026-04-18: History of internal combustion engines rabbit hole with Claude — Otto cycle to small-block V8 to modern direct injection
+- 2026-04-19: 1Password MCP server for secure credential lookup, password generation, and weak/reused password audits inside Claude
+- 2026-04-19: Family Chore Rotation web app that fairly rotates weekly chores, tracks completion, and allows one-click swaps
+- 2026-04-19: Ask Claude to write a 2-page SNL cold-open sketch starring the family, riffing on real events from the week
