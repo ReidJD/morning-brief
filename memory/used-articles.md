@@ -125,3 +125,17 @@ Each entry includes the date, section, and topic/headline summary.
 - 2026-04-19 [AI/Tech]: Meta to cut ~10% of staff in May as part of AI-first pivot
 - 2026-04-19 [AI/Tech]: Wikimedia Foundation signs content licensing deals with Microsoft and Meta
 - 2026-04-19 [AI/Tech]: Google Assistant enters end-of-life phase, consolidating around Gemini
+- 2026-04-20 [News]: Shreveport LA mass shooting - father kills 8 children, deadliest US mass shooting since 2024
+- 2026-04-20 [News]: US Navy USS Spruance seizes Iranian cargo ship Touska in Gulf of Oman
+- 2026-04-20 [News]: Earnings week - Tesla Q1 deliveries 358K below estimate, Terafab capex focus
+- 2026-04-20 [News]: UK police investigating London Jewish site arson attacks possibly Iranian-linked
+- 2026-04-20 [News]: Honor humanoid robot runs half-marathon in 50:26, beats human world record
+- 2026-04-20 [Disney]: Cinderella Castle repainted to classic palette ahead of WDW 55th anniversary
+- 2026-04-20 [Disney]: 2027 WDW vacation packages released with ticket price increases
+- 2026-04-20 [Disney]: Disneyland April ride closures - Silly Symphony Swings closes April 27
+- 2026-04-20 [Disney]: Up to 25% off select 2026 DCL Alaska/Europe/Caribbean/Bahamas sailings
+- 2026-04-20 [AI/Tech]: OpenAI "Spud" caught live-testing in production April 19, Polymarket 81% for April 23 release
+- 2026-04-20 [AI/Tech]: Claude Opus 4.7 Cyber Verification Program opens for red-team/pentest/vuln-research use
+- 2026-04-20 [AI/Tech]: Broadcom expands Anthropic deal - 3.5 GW of TPU-based compute access
+- 2026-04-20 [AI/Tech]: OpenAI/Anthropic/Google team up via Frontier Model Forum against Chinese model copying - 16M suspicious exchanges
+- 2026-04-20 [AI/Tech]: Claude Design research preview launches on Opus 4.7 for visual outputs
