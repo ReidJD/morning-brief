@@ -33,3 +33,6 @@ Each entry includes the date and a short description of the idea.
 - 2026-04-19: 1Password MCP server for secure credential lookup, password generation, and weak/reused password audits inside Claude
 - 2026-04-19: Family Chore Rotation web app that fairly rotates weekly chores, tracks completion, and allows one-click swaps
 - 2026-04-19: Ask Claude to write a 2-page SNL cold-open sketch starring the family, riffing on real events from the week
+- 2026-04-20: Notion MCP server for reading/searching/creating pages in personal Notion workspace
+- 2026-04-20: NHTSA recall and TSB monitor Python script for the 1995 Toyota pickup VIN
+- 2026-04-20: "What if..." alternate-history rabbit hole with Claude (e.g., no TVA in 1933)
