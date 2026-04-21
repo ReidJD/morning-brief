@@ -139,3 +139,17 @@ Each entry includes the date, section, and topic/headline summary.
 - 2026-04-20 [AI/Tech]: Broadcom expands Anthropic deal - 3.5 GW of TPU-based compute access
 - 2026-04-20 [AI/Tech]: OpenAI/Anthropic/Google team up via Frontier Model Forum against Chinese model copying - 16M suspicious exchanges
 - 2026-04-20 [AI/Tech]: Claude Design research preview launches on Opus 4.7 for visual outputs
+- 2026-04-21 [News]: US-Iran ceasefire set to expire Wednesday; Iran spurns Pakistan peace talks, VP Vance trip uncertain
+- 2026-04-21 [News]: Virginia mid-decade redistricting vote could boost Democrats' House chances
+- 2026-04-21 [News]: Japan megaquake advisory after 7.4 offshore quake - 1% vs 0.1% baseline, 182 towns on alert
+- 2026-04-21 [News]: US to host second round Israel-Lebanon talks Thursday at State Department
+- 2026-04-21 [News]: IBM Q1 earnings April 21 (stock ~$253.71), RTX/GE Aerospace/UnitedHealth also reporting; Tesla Wednesday
+- 2026-04-21 [Disney]: Fire Weather Watch over WDW noon-6 PM April 21; Fort Wilderness campfires limited
+- 2026-04-21 [Disney]: Jungle Cruise and Toy Story Midway Mania reopening at Disneyland April 24
+- 2026-04-21 [Disney]: "Wilderness Explorers Sky Swings" Up-themed attraction coming to Disney Adventure World Paris in 2027
+- 2026-04-21 [Disney]: Disney+ May 2026 content lineup released
+- 2026-04-21 [AI/Tech]: ChatGPT 90+ minute global partial outage April 20 (8700+ UK reports)
+- 2026-04-21 [AI/Tech]: Claude Cowork now generally available on macOS and Windows desktop app with OpenTelemetry and RBAC
+- 2026-04-21 [AI/Tech]: Claude adds inline chart/diagram/visualization rendering in responses and mobile interactive charts
+- 2026-04-21 [AI/Tech]: "Claude for Legal teams" webinar scheduled April 21
+- 2026-04-21 [AI/Tech]: OpenAI "Spud" caught live in production over weekend, Polymarket 81% for April 23 launch
