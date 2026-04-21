@@ -36,3 +36,6 @@ Each entry includes the date and a short description of the idea.
 - 2026-04-20: Notion MCP server for reading/searching/creating pages in personal Notion workspace
 - 2026-04-20: NHTSA recall and TSB monitor Python script for the 1995 Toyota pickup VIN
 - 2026-04-20: "What if..." alternate-history rabbit hole with Claude (e.g., no TVA in 1933)
+- 2026-04-21: Tailscale MCP server to manage mesh network (devices, exit nodes, shared access) from inside Claude
+- 2026-04-21: Family crest designer — Claude interviews about heritage/values/Scripture, generates heraldic coat of arms with Latin motto
+- 2026-04-21: Weekly automated family newsletter for grandparents sourced from calendar, photos, and upcoming events
