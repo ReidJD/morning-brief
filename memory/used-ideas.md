@@ -39,3 +39,6 @@ Each entry includes the date and a short description of the idea.
 - 2026-04-21: Tailscale MCP server to manage mesh network (devices, exit nodes, shared access) from inside Claude
 - 2026-04-21: Family crest designer — Claude interviews about heritage/values/Scripture, generates heraldic coat of arms with Latin motto
 - 2026-04-21: Weekly automated family newsletter for grandparents sourced from calendar, photos, and upcoming events
+- 2026-04-23: NWS Weather Alerts MCP for Toxaway/Rosman/Salem area — monitor specific NWS grid zones for alerts inside Claude
+- 2026-04-23: Truck Logbook web app for the 1995 pickup — searchable repair/maintenance journal with date, job, parts, cost, notes
+- 2026-04-23: Blue Ridge Escarpment geology exploration with Claude — 300M-year history behind Toxaway waterfalls and river systems
