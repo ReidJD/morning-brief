@@ -153,3 +153,17 @@ Each entry includes the date, section, and topic/headline summary.
 - 2026-04-21 [AI/Tech]: Claude adds inline chart/diagram/visualization rendering in responses and mobile interactive charts
 - 2026-04-21 [AI/Tech]: "Claude for Legal teams" webinar scheduled April 21
 - 2026-04-21 [AI/Tech]: OpenAI "Spud" caught live in production over weekend, Polymarket 81% for April 23 launch
+- 2026-04-23 [News]: Iran seizes two ships in Strait of Hormuz; Trump says conflict has "no time frame"; 3,400 killed in Iran since Feb 28 strikes
+- 2026-04-23 [News]: Israel-Lebanon second round of direct talks in Washington; Lebanon requests 1-month ceasefire extension
+- 2026-04-23 [News]: West Virginia chemical plant decommissioning leak kills 2, third in critical condition
+- 2026-04-23 [News]: US Senate overturns 20-year federal mining ban near Boundary Waters, MN
+- 2026-04-23 [News]: Czech-South Korea nuclear power project on schedule
+- 2026-04-23 [Disney]: Millennium Falcon Smugglers Run Mandalorian & Grogu makeover announced; opens May 22 2026
+- 2026-04-23 [Disney]: DCL 50% off kids fares for Fall 2026 / Spring 2027 sailings
+- 2026-04-23 [Disney]: H2O Glow After Hours returns for summer 2026
+- 2026-04-23 [Disney]: Encanto ride and Indiana Jones replacing Dinosaur both confirmed for 2027
+- 2026-04-23 [AI/Tech]: Thinking Machines Lab (Mira Murati) signs multi-billion dollar Google Cloud deal for Nvidia GB300 AI compute
+- 2026-04-23 [AI/Tech]: OpenAI Spud model awaited April 23 (Polymarket 81%); no official launch confirmed at time of brief
+- 2026-04-23 [AI/Tech]: MIT Tech Review - AI-powered supercharged scams exploding in 2026
+- 2026-04-23 [AI/Tech]: MIT Tech Review - 10 Things That Matter in AI Right Now 2026 roundup
+- 2026-04-23 [AI/Tech]: Washington Post - post-LLM era begins, new model architectures incorporating visual/physical data
