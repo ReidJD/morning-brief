@@ -42,3 +42,6 @@ Each entry includes the date and a short description of the idea.
 - 2026-04-23: NWS Weather Alerts MCP for Toxaway/Rosman/Salem area — monitor specific NWS grid zones for alerts inside Claude
 - 2026-04-23: Truck Logbook web app for the 1995 pickup — searchable repair/maintenance journal with date, job, parts, cost, notes
 - 2026-04-23: Blue Ridge Escarpment geology exploration with Claude — 300M-year history behind Toxaway waterfalls and river systems
+- 2026-04-24: Cloudflare MCP server to manage DNS, firewall rules, and traffic analytics for personal domains inside Claude
+- 2026-04-24: Duke Energy Outage Scout Python script — polls Duke Energy outage map API for Lake Toxaway/Rosman/Salem area and sends alert on nearby power events
+- 2026-04-24: Director's Commentary Calendar — give Claude last week's calendar and ask it to narrate each event as a DVD bonus feature with satirical behind-the-scenes commentary
