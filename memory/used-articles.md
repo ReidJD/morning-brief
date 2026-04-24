@@ -167,3 +167,16 @@ Each entry includes the date, section, and topic/headline summary.
 - 2026-04-23 [AI/Tech]: MIT Tech Review - AI-powered supercharged scams exploding in 2026
 - 2026-04-23 [AI/Tech]: MIT Tech Review - 10 Things That Matter in AI Right Now 2026 roundup
 - 2026-04-23 [AI/Tech]: Washington Post - post-LLM era begins, new model architectures incorporating visual/physical data
+- 2026-04-24 [News]: EU formally approves €90B ($106B) loan to Ukraine + 20th Russia sanctions package
+- 2026-04-24 [News]: US-Iran ceasefire announced by Pakistan PM Sharif — immediately contested by Iranian parliament speaker
+- 2026-04-24 [News]: Trump extends Israel-Lebanon ceasefire by 3 weeks
+- 2026-04-24 [News]: Texas synagogue attack plot foiled — two arrested before any attack carried out
+- 2026-04-24 [News]: Trump admin moves to block foreign tech companies (China named) from exploiting US AI models
+- 2026-04-24 [Disney]: H2O Glow After Hours general ticket sales open April 24
+- 2026-04-24 [Disney]: DCL San Diego port expansion — Disney Magic and Wonder both homeporting 2026-2027
+- 2026-04-24 [Disney]: Walt Disney Studios land at Hollywood Studios construction walls shifting ahead of May 26 opening
+- 2026-04-24 [Disney]: Fresh last-minute Disney Cruise deals dropped — Alaska and Eastern Caribbean on Disney Treasure
+- 2026-04-24 [AI/Tech]: OpenAI releases GPT-5.5 "Spud" today — available to paid ChatGPT/Codex subscribers
+- 2026-04-24 [AI/Tech]: Connecticut Senate passes comprehensive AI regulation bill 32-4
+- 2026-04-24 [AI/Tech]: Geoffrey Hinton at UN — AI needs a steering wheel, not just a fast car
+- 2026-04-24 [AI/Tech]: Trump admin targets foreign tech exploiting US AI models; China named specifically
