@@ -45,3 +45,6 @@ Each entry includes the date and a short description of the idea.
 - 2026-04-24: Cloudflare MCP server to manage DNS, firewall rules, and traffic analytics for personal domains inside Claude
 - 2026-04-24: Duke Energy Outage Scout Python script — polls Duke Energy outage map API for Lake Toxaway/Rosman/Salem area and sends alert on nearby power events
 - 2026-04-24: Director's Commentary Calendar — give Claude last week's calendar and ask it to narrate each event as a DVD bonus feature with satirical behind-the-scenes commentary
+- 2026-04-25: RSS/Miniflux MCP server to query and summarize self-hosted RSS feeds by topic inside Claude
+- 2026-04-25: Ask Claude to write a pompous 19th-century Field Guide to Transylvania County (including Homo mechanicus rusticus)
+- 2026-04-25: Sunday School Attendance & Notes Tracker web app with roster, attendance, lesson notes, prayer log, PDF export
