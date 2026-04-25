@@ -180,3 +180,17 @@ Each entry includes the date, section, and topic/headline summary.
 - 2026-04-24 [AI/Tech]: Connecticut Senate passes comprehensive AI regulation bill 32-4
 - 2026-04-24 [AI/Tech]: Geoffrey Hinton at UN — AI needs a steering wheel, not just a fast car
 - 2026-04-24 [AI/Tech]: Trump admin targets foreign tech exploiting US AI models; China named specifically
+- 2026-04-25 [News]: US-Iran peace talks uncertain — Iran FM in Pakistan; contradictory signals on Kushner/Witkoff meeting
+- 2026-04-25 [News]: Israel-Lebanon ceasefire fraying — troops trading fire despite 3-week extension
+- 2026-04-25 [News]: WFP report — acute food insecurity alarmingly high in 10 countries; Gaza and Sudan at risk
+- 2026-04-25 [News]: Nvidia crosses $5 trillion market cap again; X-energy completes largest nuclear IPO on record
+- 2026-04-25 [News]: Zelensky meets Saudi Crown Prince MBS — Ukraine pitches itself as security exporter
+- 2026-04-25 [Disney]: Disneyland Monorail and Roger Rabbit's Car Toon Spin reopening May 1 2026
+- 2026-04-25 [Disney]: Disney + Royal Caribbean named Condé Nast best new cruises of 2026 — Disney Destiny highlighted
+- 2026-04-25 [Disney]: Pirates of the Caribbean and Blue Bayou closing at Disneyland May 4 for refurbishment
+- 2026-04-25 [Disney]: 11 Disney World closures flagged for May 2026 — includes Soarin' May 14-25 transition
+- 2026-04-25 [AI/Tech]: DeepSeek V4 launches — open-source pro and flash versions with improved reasoning and agentic capabilities
+- 2026-04-25 [AI/Tech]: Anthropic Managed Agents public beta — fully managed sandboxed agent harness with built-in tools
+- 2026-04-25 [AI/Tech]: CHAT Act passes — federal AI transparency bill clears Senate 31-0 and House 90-0
+- 2026-04-25 [AI/Tech]: Anthropic ant CLI debuts — command-line Claude API client with Claude Code integration and YAML versioning
+- 2026-04-25 [AI/Tech]: Anthropic leads global AI performance rankings per March 2026 data; US-China nearly neck-and-neck
