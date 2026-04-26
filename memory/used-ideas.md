@@ -48,3 +48,6 @@ Each entry includes the date and a short description of the idea.
 - 2026-04-25: RSS/Miniflux MCP server to query and summarize self-hosted RSS feeds by topic inside Claude
 - 2026-04-25: Ask Claude to write a pompous 19th-century Field Guide to Transylvania County (including Homo mechanicus rusticus)
 - 2026-04-25: Sunday School Attendance & Notes Tracker web app with roster, attendance, lesson notes, prayer log, PDF export
+- 2026-04-26: Paperless-NGX MCP server for searching scanned receipts, truck records, and home documents inside Claude
+- 2026-04-26: The Great Wagon Road with Claude — how Transylvania County NC got settled via 18th-century settlers, Cherokee routes, and Scots-Irish migration
+- 2026-04-26: Smart Scripture Memory web app with fill-in-the-blank, synonym substitution, and reverse-lookup verse drills for Sunday School
