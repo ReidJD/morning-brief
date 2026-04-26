@@ -194,3 +194,13 @@ Each entry includes the date, section, and topic/headline summary.
 - 2026-04-25 [AI/Tech]: CHAT Act passes — federal AI transparency bill clears Senate 31-0 and House 90-0
 - 2026-04-25 [AI/Tech]: Anthropic ant CLI debuts — command-line Claude API client with Claude Code integration and YAML versioning
 - 2026-04-25 [AI/Tech]: Anthropic leads global AI performance rankings per March 2026 data; US-China nearly neck-and-neck
+- 2026-04-26 [News]: WHCD shooting — Trump evacuated after armed suspect breaches security; Cole Allen in custody, Secret Service agent shot and released
+- 2026-04-26 [News]: US-Iran talks — Witkoff and Kushner confirmed traveling to Pakistan; Iran says no direct meeting planned
+- 2026-04-26 [News]: Zelenskyy signs 6 agreements with Azerbaijan on security, defense, energy, and joint production
+- 2026-04-26 [News]: Gaza food prices 85% higher than pre-war levels; WFP warns of famine risk in Gaza and Sudan
+- 2026-04-26 [Disney]: Disney Lakeshore Lodge concept art and Summer 2027 opening timeline revealed — 967 rooms, Bay Lake views, fireworks views
+- 2026-04-26 [Disney]: VIPassholder summer events and new perks announced for May 26 attractions wave
+- 2026-04-26 [Disney]: Star Wars Days special eats, novelty sippers, and popcorn buckets revealed for May 2026
+- 2026-04-26 [AI/Tech]: Google commits up to $40B in Anthropic — $10B now + $30B conditional + 5GW compute over 5 years
+- 2026-04-26 [AI/Tech]: Google launches Deep Research and Deep Research Max agents on Gemini 3.1 Pro — 160 searches per task
+- 2026-04-26 [AI/Tech]: Anthropic Mythos model released to limited partners — most powerful model to date with cybersecurity focus
