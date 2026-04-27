@@ -204,3 +204,14 @@ Each entry includes the date, section, and topic/headline summary.
 - 2026-04-26 [AI/Tech]: Google commits up to $40B in Anthropic — $10B now + $30B conditional + 5GW compute over 5 years
 - 2026-04-26 [AI/Tech]: Google launches Deep Research and Deep Research Max agents on Gemini 3.1 Pro — 160 searches per task
 - 2026-04-26 [AI/Tech]: Anthropic Mythos model released to limited partners — most powerful model to date with cybersecurity focus
+- 2026-04-27 [News]: King Charles III US state visit begins — first British monarch state visit since 2007; White House welcome, Congress address, state banquet
+- 2026-04-27 [News]: Colombia highway bomb attack kills 19, injures 38 in Cauca department
+- 2026-04-27 [News]: Iran seizes container ships near Strait of Hormuz; proposes new reopening deal to US while deferring nuclear talks
+- 2026-04-27 [News]: Trump claims good conversations with Putin and Zelensky on Ukraine peace push
+- 2026-04-27 [Disney]: Disney World 2026 policy updates — stroller wagon ban (max 31"x52"), tumbler restrictions on rides, Fort Wilderness max 8 guests, free water park on check-in day
+- 2026-04-27 [Disney]: Walt Disney World Early Park Entry and Extended Evening Hours confirmed through 2027 for resort guests
+- 2026-04-27 [Disney]: Disney Jr. Mickey Mouse Clubhouse Live! new preschool stage show debuting May 26 at Hollywood Studios
+- 2026-04-27 [AI/Tech]: Claude overtakes ChatGPT in South Korea paid AI market; Anthropic enterprise share at 30.6% vs OpenAI 35.2%
+- 2026-04-27 [AI/Tech]: AI consuming over 10% of US electricity as agentic AI systems accelerate demand
+- 2026-04-27 [AI/Tech]: Micron $100B NY megafab active site prep underway, CHIPS Act funded, 50K jobs projected, first production 2030
+- 2026-04-27 [AI/Tech]: Anthropic confirms Claude remains ad-free as ARR hits $30B
