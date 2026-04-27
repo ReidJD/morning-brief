@@ -51,3 +51,6 @@ Each entry includes the date and a short description of the idea.
 - 2026-04-26: Paperless-NGX MCP server for searching scanned receipts, truck records, and home documents inside Claude
 - 2026-04-26: The Great Wagon Road with Claude — how Transylvania County NC got settled via 18th-century settlers, Cherokee routes, and Scots-Irish migration
 - 2026-04-26: Smart Scripture Memory web app with fill-in-the-blank, synonym substitution, and reverse-lookup verse drills for Sunday School
+- 2026-04-27: Proxmox/Homelab MCP server to manage VMs, containers, and storage from inside Claude
+- 2026-04-27: Family Recipe Vault web app with ingredient substitution finder and recipe scaling
+- 2026-04-27: Satirical 1970s Boy Scout Wilderness Survival Field Guide for Lake Toxaway weekenders
